@@ -1,0 +1,32 @@
+{
+  "personOid": [
+    "10094586",
+    "10094587",
+    "10094588",
+    "10094589"
+  ],
+  "lastName": "Нечеловеческий",
+  "firstName": "Порок",
+  "organization": {
+    "Legal": true,
+    "Business": false,
+    "Branch": false
+  }
+}
+
+
+{
+  "name": "AAPL",
+  "type": "STOCK",
+  "isin": "US0378331005",
+  "exchanges": [
+    "LSE",
+    "NYSE",
+    "SSE"
+  ],
+  "additionalInfo": {
+    "minLotSize": "0.01",
+    "trading_enabled": true,
+    "has_options": false
+  }
+}
