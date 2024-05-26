@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FilesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-26T14:21:11" hostname="SERGEYPC" time="2.145">
+<testsuite name="FilesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-26T14:26:04" hostname="SERGEYPC" time="2.141">
   <properties/>
-  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ PDF РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="0.863"/>
-  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ CSV РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="0.131"/>
-  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ JSON" classname="FilesTest" time="0.086"/>
-  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ XLSX РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="1.058"/>
+  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ PDF РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="0.877"/>
+  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ CSV РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="0.138"/>
+  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ JSON" classname="FilesTest" time="0.073"/>
+  <testcase name="РџСЂРѕРІРµСЂСЏРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ XLSX РІ ZIP Р°СЂС…РёРІРµ" classname="FilesTest" time="1.047"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
