@@ -11,15 +11,15 @@ public class Person {
     private List<String> personOid;
     private Organization organization;
 
-    public String getlastName() {
+    public String getLastName() {
         return lastName;
     }
 
-    public String getfirstName() {
+    public String getFirstName() {
         return firstName;
     }
 
-    public List<String> getpersonOid() {
+    public List<String> getPersonOid() {
         return personOid;
     }
 

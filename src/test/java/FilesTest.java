@@ -107,15 +107,15 @@ public class FilesTest {
         try (InputStream stream = cl.getResourceAsStream("Person.json");
             Reader reader = new InputStreamReader(stream)) {
             Person person = mapper.readValue(reader, Person.class);
-            assertThat(person.getpersonOid().size())
+            assertThat(person.getPersonOid().size())
                     .isEqualTo(4);
             assertThat(person.getOrganization().getLegal())
                     .isTrue();
-            assertThat(person.getlastName())
+            assertThat(person.getLastName())
                     .isEqualTo("Нечеловеческий");
-            assertThat(person.getfirstName())
+            assertThat(person.getFirstName())
                     .isEqualTo("Порок");
-            assertThat(person.getpersonOid())
+            assertThat(person.getPersonOid())
                     .contains("10094586", "10094587", "10094588", "10094589");
         }
     }
